@@ -4,7 +4,6 @@ class Currency {
     this.name = name;
   }
 
-
   /**
    * @param {String} code
    */
